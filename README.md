@@ -12,7 +12,7 @@ MATLAB script to compare eyes-open vs. eyes-closed alpha power using EEGLAB.
 3. Plotted scalp topography of the results.
 
 ### Repository Structure
-eeg-spectral-topoplot/
+eeg-spectral-topoplot/ \
 ├── scripts/                                              # MATLAB scripts \
 │   └── psd_diff_assessment.m                             # Main Code \
 ├── figures/                                              # Output visualizations \
